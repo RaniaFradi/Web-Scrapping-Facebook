@@ -1,0 +1,1 @@
+I implemented, using python3, a Facebook connector allowing to collect posts (images, texts and comments related to images) in relation to the death of President "Jacques Chirac", then I stored them in a MongoDB database.
